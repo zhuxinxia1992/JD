@@ -1,0 +1,23 @@
+/* CSS Document */
+body{
+	font-family: "Arial";
+	font-size: 12px;
+	color: #666666;
+	line-height:150%;
+	padding:0; 
+	margin:0;
+	background:url(../image/back_bg.gif) repeat-x 0 0;
+}
+div{
+	margin:0 auto; 
+	padding:0;
+}
+h1,h2,h3,h4,h5,h6,ul,li,dl,dt,dd,form,img,p{
+	margin:0; 
+	padding:0; 
+	border:none; 
+	list-style-type:none;
+}
+h1,h2,h3,h4,h5,h6{
+	font-size:12px;
+}

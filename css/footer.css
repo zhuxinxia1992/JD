@@ -1,0 +1,81 @@
+/* CSS Document */
+.footer{
+	width: 980px; 
+    margin-top: 315px;
+	margin-left:183px;
+	float:left;
+}
+.footer .helpblank{
+	width: 980px; 
+	height:130px;
+	padding-left: 10px;
+	background: #f8f8f8;
+    border: 1px solid #ccc;
+	float:left;	
+}
+.helpblank .helpbox {
+	width:150px;
+	padding: 10px 5px;
+	margin-top: 15px;
+	float:left;
+}
+.helpbox dt a{
+	color: #333;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 10px;
+    margin-bottom: 1px;
+	text-decoration:none;
+}
+.helpbox dt a:hover{
+	color: #ff0000;
+}
+.helpbox dd a{
+	color: #333;
+    font-size: 12px;
+    padding-left: 10px;
+	text-decoration:none;
+    background: url(../image/tubiao.gif) no-repeat left center ;
+}
+.helpbox dd a:hover{
+    color: #ff0000;
+}
+.helpright{
+	color: #666;
+    font-size: 12px;
+    padding-top: 25px;
+    padding-right: 5px;
+    float: right;
+}
+.footer .link1{
+	width: 990px;
+    height: 38px;
+	margin:10px 0;
+    border: 1px solid #ccc;
+	float:left;
+}
+.link1 a{
+	color: #424242;
+    font-size: 12px;
+    line-height: 38px;
+    font-family: sans-serif;
+	text-decoration:none;
+	text-indent:1em;
+    float: left;
+}
+.link2{
+	width: 982px;
+    margin-bottom: 8px;
+}
+.bottom{
+	width: 980px;
+    height: 91px;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: center;
+}
+.bottom a{
+	color: #424242;
+	text-decoration:none;
+}
